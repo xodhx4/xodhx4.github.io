@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 개발블로그</title>
+    <link>https://kimtaeoh95.github.io/posts/</link>
+    <description>Recent content in Posts on 개발블로그</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 02 Apr 2020 20:56:45 +0900</lastBuildDate>
+    
+	<atom:link href="https://kimtaeoh95.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Js 초보가 쓰는 Async Await 처음부터 이해하기</title>
+      <link>https://kimtaeoh95.github.io/posts/js-%EC%B4%88%EB%B3%B4%EA%B0%80-%EC%93%B0%EB%8A%94-async-await-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/</link>
+      <pubDate>Thu, 02 Apr 2020 20:56:45 +0900</pubDate>
+      
+      <guid>https://kimtaeoh95.github.io/posts/js-%EC%B4%88%EB%B3%B4%EA%B0%80-%EC%93%B0%EB%8A%94-async-await-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/</guid>
+      <description>JS 초보가 쓰는 async await 처음부터 이해하기 글을 쓴 이유 이미 인터넷에 async와 await에 관련된 글들이 많습니다. 그럼에도 불구하고 이 글이 쓰는 이유는 2가지 입니다.
+ 기존 글들은 js를 기준으로 쓰여있기 때문에 논블로킹을 기본으로 설정하고 블로킹으로 바꾸는 방법에 집중하는 경우가 많았습니다. js가 어떻게 논블로킹io를 구현했는지(콜백모델), 기존 언어와 차이점을 제시하고자 합니다.  Blocking IO와 Non-Blocking IO의 차이 컴퓨터가 하는 일은 크게 2가지로 나뉩니다. 바로 CPU가 하는 작업과 I/O 작업입니다. 먼저 CPU 작업은 객체 생성, 연산 등의 작업을 수행합니다.</description>
+    </item>
+    
+  </channel>
+</rss>
